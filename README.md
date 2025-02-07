@@ -5,8 +5,8 @@ Este projeto é uma aplicação web interativa desenvolvida com HTML, CSS e Java
 
 Este projeto foi desenvolvido como parte do aprendizado na plataforma Alura, com foco nos seguintes conceitos:
 
-HTML e CSS: Estruturação e estilização de páginas web.
-JavaScript: Manipulação do DOM e eventos para interatividade.
+JavaScript: o que é, como aprender
+JavaScript para Web: Crie páginas dinâmicas
 Acessibilidade: Implementação de controles via teclado para tornar o projeto mais inclusivo.
 
 Os conhecimentos adquiridos foram aplicados durante o período de estudos entre 2023 e 2025, sendo utilizados também no estágio na Simples Software.

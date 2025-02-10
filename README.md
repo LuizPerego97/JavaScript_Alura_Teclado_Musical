@@ -24,6 +24,5 @@ JavaScript: Manipulação do DOM para interatividade com os botões e teclas.
 ✔ Implementação de acessibilidade para melhor usabilidade.
 ✔ Estrutura organizada com boas práticas de desenvolvimento.
 
-🔗 Acesse meu portfólio
 📌 LinkedIn  (https://www.linkedin.com/in/luizperego/)
 📌 GitHub    (https://github.com/LuizPerego97)
